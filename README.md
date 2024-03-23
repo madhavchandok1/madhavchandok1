@@ -65,12 +65,8 @@ I believe in the power of collaboration and the magic that unfolds when minds co
 </div>
 
 
-
-<!-- <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1> -->
 ## Watch a 🐍 eating my contribution graph
-<p align="center">
-  <img src="github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<img src="https://raw.githubusercontent.com/madhavchandok1/madhavchandok1/output/snake.svg" alt="Snake animation" align="center"/>
 
 
 ## Quote of the Day
