@@ -69,10 +69,6 @@ I believe in the power of collaboration and the magic that unfolds when minds co
 <img src="https://raw.githubusercontent.com/madhavchandok1/madhavchandok1/output/snake.svg" alt="Snake animation" align="center"/>
 
 
-## Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
-Thank you for visiting my GitHub profile. Let's embark on this exhilarating journey together, shaping the future one commitment at a time!
+### Thank you for visiting my GitHub profile. Let's embark on this exhilarating journey together, shaping the future one commitment at a time!
 
 
