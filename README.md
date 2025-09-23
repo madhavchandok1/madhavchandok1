@@ -31,6 +31,8 @@ I believe in the power of collaboration and the magic that unfolds when minds co
 [![Youtube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCh04LO5Po1hbWBbhT4F2siw)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/madhavchandok1/)
 
+## Cybersecurity Profile 🛡️
+<img src="https://tryhackme-badges.s3.amazonaws.com/Term1nalGhost.png" alt="Your Image Badge" />
 
 ## Languages 🛠 
 <div align="center">
