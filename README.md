@@ -1,6 +1,6 @@
 <h1 align='center'> 🌟 Welcome to My GitHub Profile! 🌟 </h1>
 
-<h2 align='center'> Hello there! 👋 I'm Madhav Chandok <br><br> Passionate Software Engineer | Constant Learner | Collaborator </h2>
+<h2 align='center'> Hello there! 👋 I'm Madhav Chandok <br><br> Passionate Software Engineer | CyberSecurity Enthusiast | Constant Learner | Collaborator </h2>
 
 Welcome to my GitHub profile! I'm on a perpetual journey of exploration, diving deep into the realm of technology to make a meaningful impact. Here's a glimpse into what you'll find here:
 
