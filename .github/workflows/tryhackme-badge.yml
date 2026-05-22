@@ -1,14 +1,22 @@
-name: Update TryHackMe Badge
+name: Update TryHackMe Stats Badge
+
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 0 * * *' # Automates execution every day at midnight
+  workflow_dispatch: # Allows you to manually trigger updates
+
+permissions:
+  contents: write # Grants the runner permission to push the image to your repo
+
 jobs:
-  update-badge:
+  tryhackme-stats-update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: p4p1/tryhackme-badge-workflow@main
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Generate TryHackMe Stats Image
+        uses: p4p1/tryhackme-badge-workflow@main
         with:
           username: "Term1nalGhost"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Authenticates the automated push
