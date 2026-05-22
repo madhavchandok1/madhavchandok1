@@ -32,7 +32,7 @@ I believe in the power of collaboration and the magic that unfolds when minds co
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/madhavchandok1/)
 
 ## Cybersecurity Profile 🛡️
-![tryhackme stats](https://raw.githubusercontent.com/Term1nalGhost/Term1nalGhost/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/Term1nalGhost/master/assets/thm_propic.png)
 
 ## Languages 🛠 
 <div align="center">
