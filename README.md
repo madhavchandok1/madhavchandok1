@@ -32,7 +32,9 @@ I believe in the power of collaboration and the magic that unfolds when minds co
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/madhavchandok1/)
 
 ## Cybersecurity Profile 🛡️
-![tryhackme stats](https://raw.githubusercontent.com/madhavchandok1/madhavchandok1/master/assets/thm_propic.png)
+<div align="center">
+	<img src="https://raw.githubusercontent.com/madhavchandok1/madhavchandok1/master/assets/thm_propic.png" />
+</div>
 
 ## Languages 🛠 
 <div align="center">
@@ -63,7 +65,6 @@ I believe in the power of collaboration and the magic that unfolds when minds co
 
 ## Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavchandok1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=madhavchandok1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
